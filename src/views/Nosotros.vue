@@ -8,10 +8,9 @@
       puedes acariciar a más de un gatito que necesite amor.
       <br>
       Siempre queremos lo mejor para nuestros clientes, por lo que si tienes algún reclamo o sugerencia,
-      ¡Te escuchamos! Haz clic en el botón de abajo donde puedes llenar un formulario absolutamente confidencial.
+      ¡Te escuchamos! Revisa nuestra sección de contacto donde podrás enviarnos un mensaje a través de un sencillo formulario.
     </template>
-    <br>
-    <b-button variant="primary" href="https://forms.gle/suM4sV9d4mxkvnHA7">Ir a formulario</b-button>
+    
     
   </b-jumbotron>
 </div>

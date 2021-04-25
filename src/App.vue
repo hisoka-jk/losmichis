@@ -14,7 +14,8 @@
     <b-collapse id="navbar-toggle-collapse" is-nav>
       <b-navbar-nav class="ml-auto">
         <b-nav-item href="/">Inicio</b-nav-item>
-        <b-nav-item href="/nosotros">Nosotros</b-nav-item>
+        <b-nav-item href="/Nosotros">Nosotros</b-nav-item>
+        <b-nav-item href="/Contacto">Contacto</b-nav-item>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
